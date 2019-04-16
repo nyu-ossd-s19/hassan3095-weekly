@@ -20,7 +20,6 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
-|  2   | Link to my contribution    | course website    |   I fixed a broken link.    |
 |  2   | [Link to my contribution](https://github.com/nyu-software-engineering/rally/issues/created_by/hassan3095) | Web App | All the 9 different user-stories and spikes I created for a web app, Rally. 
 |  3   | [Link to my contribution](https://github.com/nyu-ossd-s19/tickStop)   | browser extension  | setup the repository |
 |  4   | [Link to my contribution](https://github.com/hassan3095/rally/commit/4e6feef286cd1e6c65f463e2760575c080da740d) | Web App | Documentation - README |
