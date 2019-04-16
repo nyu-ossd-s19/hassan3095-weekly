@@ -28,3 +28,4 @@ Replace the first row with your contribution.
 |  6   | [Link to my contribution](https://github.com/hassan3095/rally/commit/f66ec097713ed2db1d5e63fb5d7f8772b70fb405) | Web App | Unit tests |
 |  7   | [Link to my contribution](https://en.wikipedia.org/wiki/Vinoo_Mankad) | Wikipedia          | fixing grammatical mistakes |
 |  7   | [Link to mt contribution](https://en.wikipedia.org/wiki/Sufi_rock) | Wikipedia | Adding updated information
+|  8   | [Link to my contribution](https://github.com/hassan3095/rally/commit/b72909948ec92c398a9fc4f8d2e3728fd2ef05a8) | Web App | Implementing my user story | 
